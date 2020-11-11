@@ -1,3 +1,7 @@
+/* {
+    border: black 1px solid;
+} */
+
 .navigation, .activeBtn {
     text-decoration: none;
     color: black;
@@ -13,7 +17,16 @@
     border-radius: 25px;
 }
 
+.Lgo {
+    float: right;
+    clear: right;
+    height: auto;
+    margin-top: -70px;
+    width: 350px;
+}
+
 nav {
     margin-top: 50px;
     margin-left: 50px;
+    width: 800px;
 }
