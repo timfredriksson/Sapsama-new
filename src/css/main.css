@@ -19,7 +19,7 @@ font-weight: bold;
 }
 
 .activeBtn {
-background-color: #e0e0e0;
+background-color: #FEEF3A;
 padding: 15px;
 border-radius: 25px;
 }
@@ -70,11 +70,12 @@ footer {
 .aboutText {
     width: 750px;
     font-size: 30px;
-    margin-top: 15%;
-    margin-left: 12.5%;
+    margin-top: 12%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
 
 body {
     background-color: #ffff96;
-    color: #0B56F3;
+    color: #232CCF;
 }
