@@ -22,7 +22,9 @@
     clear: right;
     height: auto;
     margin-top: -70px;
-    width: 350px;
+    width: 300px;
+    padding-right: 30px;
+    padding-top: 10px;
 }
 
 nav {
