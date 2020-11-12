@@ -40,6 +40,20 @@ nav {
     width: 800px;
 }
 
+body {
+    background-color: lightblue;
+}
+
 .hansTransparent {
-    margin-bottom: 0px;
+    padding-top: 320px;
+}
+
+.footerText {
+    background-color: rgb(24, 24, 192);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
