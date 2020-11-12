@@ -27,6 +27,13 @@
     padding-top: 10px;
 }
 
+.seperationLine {
+    border: none;
+    height: 1px;
+    margin-top: 50px;
+    background-color: black;
+}
+
 nav {
     margin-top: 50px;
     margin-left: 50px;
