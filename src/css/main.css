@@ -12,7 +12,6 @@ body {
 
 .navigation, .activeBtn {
 text-decoration: none;
-color: black;
 font-family: Arial, Helvetica, sans-serif;
 font-size: 2vh;
 margin-left: 20px;
@@ -68,12 +67,14 @@ footer {
     flex: 0 0 auto;
 }
 
-.footerText {
-background-color: rgb(24, 24, 192);
-color: white;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-width: 100%;
-text-align: center;
-padding-top: 20px;
-padding-bottom: 20px;
+.aboutText {
+    width: 750px;
+    font-size: 30px;
+    margin-top: 15%;
+    margin-left: 12.5%;
+}
+
+body {
+    background-color: #ffff96;
+    color: #0B56F3;
 }
