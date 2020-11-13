@@ -70,7 +70,7 @@ footer {
 .aboutText {
     width: 750px;
     font-size: 30px;
-    margin-top: 12%;
+    margin-top: 5%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
 }
@@ -78,4 +78,16 @@ footer {
 body {
     background-color: #ffff96;
     color: #232CCF;
+}
+
+.newsButton {
+    font-family: 'Goldman', cursive;
+    font-size: 40px;
+    color: #232CCF;
+    padding: 10px;
+    border: 3px #232CCF solid;
+    border-radius: 10px;
+    height: 40px;
+    background-color: #FEEF3A;
+    margin-left: 123%;
 }
