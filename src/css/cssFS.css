@@ -39,6 +39,8 @@
 .newsButton:hover {
     transition: 0.25s;
     border: red 4px solid;
+    border-left: none;
+    color: red;
 }
 
 .information img {
