@@ -1,18 +1,16 @@
 .publicTxt {
     width: 1000px;
-    font-size: 250%;
+    font-size: 150%;
     margin-top: 3.5%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     padding: 15px;
-    border: #232CCF 3px solid;
-    border-left: none;
-    float: left;
+    float: right;
 }
 
 .college {
     width: 30%;
     margin-right: 40px;
     margin-top: 10%;
-    float: right;
+    float: left;
 }

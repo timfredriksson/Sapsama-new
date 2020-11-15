@@ -5,14 +5,13 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     padding: 15px;
-    border: #232CCF 3px solid;
-    border-left: none;
-    float: left;
+    
+    float: right;
 }
 
 .plane {
     width: 50%;
     margin-right: 30px;
     height: 500px;
-    float: right;
+    float: left;
 }

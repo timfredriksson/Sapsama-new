@@ -1,0 +1,24 @@
+.contactInfo {
+    width: 750px;
+    font-size: 30px;
+    margin-top: 12.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: blue solid 3px;
+    padding: 40px;
+    transition: 25ms;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    transition: .25s;
+}
+
+a:hover {
+    transition: .25s;
+    color: red;
+}
