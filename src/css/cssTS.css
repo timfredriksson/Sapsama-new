@@ -14,3 +14,30 @@
     margin-top: 10%;
     float: left;
 }
+
+@media screen and (max-width: 1530px){
+    .publicTxt {
+        width: 750px;
+    }
+}
+
+@media screen and (max-width: 1172px){
+    .publicTxt {
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 818px){
+    .publicTxt {
+        float: none;
+    }
+    .college {
+        float: none;
+    }
+}
+
+@media screen and (max-width: 532px){
+    .college, .publicTxt {
+        width: 100%;
+    }
+}
