@@ -1,0 +1,9 @@
+.badTxt {
+    width: 100%;
+    font-size: 150%;
+    margin-top: 5.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding: 15px;
+    float: right;
+}
