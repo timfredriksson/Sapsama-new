@@ -1,46 +1,46 @@
 .servicesTxt {
-    width: 750px;
-    font-size: 150%;
-    margin-top: 5.5%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold;
-    padding: 15px;
-    float: right;
+  width: 750px;
+  font-size: 150%;
+  margin-top: 5.5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  padding: 15px;
+  float: right;
 }
 
 .plane {
-    width: 50%;
-    margin-right: 30px;
-    float: left;
+  width: 50%;
+  margin-right: 30px;
+  float: left;
 }
 
-@media screen and (max-width: 1620px){
-    .plane {
-        width: 40%;
-    }
+@media screen and (max-width: 1620px) {
+  .plane {
+    width: 40%;
+  }
 }
 
-@media screen and (max-width: 1352px){
-    .servicesTxt {
-        width: 500px;
-        margin-top: 2%;
-    }
+@media screen and (max-width: 1352px) {
+  .servicesTxt {
+    width: 500px;
+    margin-top: 2%;
+  }
 }
 
 @media screen and (max-width: 940px) {
-    .servicesTxt {
-        float: none;
-    }
-    .plane {
-        float: none;
-    }
-    .plane {
-        width: 75%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    .servicesTxt {
-        width: 100%;
-    }
+  .servicesTxt {
+    float: none;
+  }
+  .plane {
+    float: none;
+  }
+  .plane {
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .servicesTxt {
+    width: 100%;
+  }
 }

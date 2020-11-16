@@ -1,49 +1,48 @@
 .main {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 
 .hansTransparent {
-    margin-left: 20px;
+  margin-left: 20px;
 }
 
 .information {
-    display: flex;
-    flex: 1 0 auto;
-    height: calc(100vh - 134px);
+  display: flex;
+  flex: 1 0 auto;
+  height: calc(100vh - 134px);
 }
 
 .aboutText {
-    width: 750px;
-    font-size: 150%;
-    margin-top: 12.5%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold;
+  width: 750px;
+  font-size: 150%;
+  margin-top: 12.5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
 }
 
 .newsButton {
-    font-family: 'Goldman', cursive;
-    font-size: 40px;
-    position: absolute;
-    text-align: end;
-    text-decoration: none;
-    padding: 10px;
-    transition: 0.25s;
-    border-bottom-right-radius: 15px;
-    border-top-right-radius: 15px;
-    border: 2px #232CCF solid;
-    border-left: none;
+  font-family: "Goldman", cursive;
+  font-size: 40px;
+  position: absolute;
+  text-align: end;
+  text-decoration: none;
+  padding: 10px;
+  transition: 0.25s;
+  border-bottom-right-radius: 15px;
+  border-top-right-radius: 15px;
+  border: 2px #232ccf solid;
+  border-left: none;
 }
 
 .newsButton:hover {
-    transition: 0.25s;
-    border: red 4px solid;
-    border-left: none;
-    color: red;
+  transition: 0.25s;
+  border: red 4px solid;
+  border-left: none;
+  color: red;
 }
 
 .information img {
-    width: 600px;
-    margin-top: auto;
+  width: 600px;
+  margin-top: auto;
 }
-

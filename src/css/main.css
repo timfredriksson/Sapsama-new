@@ -1,16 +1,17 @@
 body {
-    background-color: white;
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  background-color: white;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-.navigation, .activeBtn {
-text-decoration: none;
-font-family: Arial, Helvetica, sans-serif;
-font-size: 2vh;
-margin-left: 20px;
-font-weight: bold;
+.navigation,
+.activeBtn {
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2vh;
+  margin-left: 20px;
+  font-weight: bold;
 }
 
 .navigation:visited {
@@ -18,35 +19,35 @@ font-weight: bold;
 }
 
 .activeBtn {
-background-color: #FEEF3A;
-padding: 15px;
-border-radius: 25px;
+  background-color: #feef3a;
+  padding: 15px;
+  border-radius: 25px;
 }
 
 .Lgo {
-float: right;
-clear: right;
-height: auto;
-margin-top: -70px;
-width: 300px;
-padding-right: 30px;
-padding-top: 10px;
+  float: right;
+  clear: right;
+  height: auto;
+  margin-top: -70px;
+  width: 300px;
+  padding-right: 30px;
+  padding-top: 10px;
 }
 
 .seperationLine {
-border: none;
-height: 1px;
-margin-top: 50px;
-background-color: black;
+  border: none;
+  height: 1px;
+  margin-top: 50px;
+  background-color: black;
 }
 
 nav {
-margin-top: 50px;
-margin-left: 50px;
-width: 50%;
+  margin-top: 50px;
+  margin-left: 50px;
+  width: 50%;
 }
 
 body {
-    background-color: #ffff96;
-    color: #232CCF;
+  background-color: #ffff96;
+  color: #232ccf;
 }
